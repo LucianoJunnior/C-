@@ -1,0 +1,7 @@
+pratica 3 construa um programa em pascal que aceite pelo teclado o nome de 10 alunos, duas notas
+de provas p1 e p2 e faltas a seguir, calcule a média de cada aluno e mosrte se o aluno está aprovado ou reprovado de acordo com os criterios abaixo
+
+se média >= 7 and faltas <10 então aluno  aprovado
+se média < 7 e faltas < 10 então resporvado norta 
+se faltas > 10 então aluno reprovado falta
+ao final do programa faça um resumo de quantops foram aprovados e reprovados
